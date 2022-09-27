@@ -1,0 +1,25 @@
+Wall Shot            : Wolfteam.bin+0x51D80 : on 5
+Jump Hack            : cshell.dll+0x4B3D7C : on 1072064102
+Kurt Takla           : cshell.dll+0x320760 : on 378215541
+No Fall Damage       : cshell.dll+11C885 : on 12616719
+Repid Fire           : cshell.dll+13F25B | Wolfteam.bin+754EE | on 1574503796
+No Reload            : cshell.dll+13D56E : on 2257258100
+No Gravity           : cshell.dll+11B3AB : on 5
+Hold                 : cshell.dll+8D8FC : of 845022580 on 845022581
+Esp Name             : cshell.dll+3815EB
+0 MS                 : Wolfteam.bin+7EC26 : on 184
+No Recoil            : cshell.dll+49D800 : on 0
+No Spread            : cshell.dll+1582D3 : on 1301090420
+Always Head Shot     : cshell.dll+1DCBF5 : on 1566441904
+Anti Stun            : cshell.dll+8265E : on 1574503796
+Team Kill            : cshell.dll+1C1055 : on 4286937971
+God Mode             : cshell.dll+116EC9 : on 3641198040
+All Player Freeze    : cshell.dll+D0ABE : on 1574503796              
+// new               
+Wolf Dash Speed      : cshell.dll+117860 : on 0 of 19610
+WolfViewX2           : Wolfteam.bin+B21E8 : on 0 of 18004
+AimbotUltura         : cshell.dll+31BA08 : on 2251820148 of 2251820149
+Team Kill            : cshell.dll+1C1055 : on 4286937971 of 4286937972
+God Mode             : cshell.dll+116EC9 : on 3641198040 of 3641198041
+Aim Fix              : cshell.dll+227629 : on 01 of 00
+Move Speed           : cshell.dll+BF70C : on 1008981770 on 1022739088 of 98110581
